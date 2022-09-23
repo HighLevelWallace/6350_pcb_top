@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SS-12D07-VG_4_NS_GA_PA"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-06-06-11:10:45)
+    (mountForm default
+        (footprintRef "SS-12D07-VG")
+        (spec "System")
+    )
+)

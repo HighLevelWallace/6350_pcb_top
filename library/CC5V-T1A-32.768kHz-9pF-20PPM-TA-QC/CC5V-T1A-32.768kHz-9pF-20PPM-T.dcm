@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CC5V-T1A-32.768kHz-9pF-20PPM-TA-QC
+D CC5V-T1A Tuning Fork Crystal 32.768kHz in 1.5 x 4.1 mm package
+K
+F https://www.mouser.de/datasheet/2/530/CC5V_T1A-1510855.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LD39015M10R
+#/221805/953761/2.49/5/3/Integrated Circuit
+DEF LD39015M10R IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "LD39015M10R" 850 200 50 H V L CNN
+F2 "SOT95P280X145-5N" 850 100 50 H I L CNN
+F3 "http://www.st.com/web/en/resource/technical/document/datasheet/CD00173477.pdf" 850 0 50 H I L CNN
+F4 "LD39015M10R, Low Noise LDO Voltage Regulator, 150mA, 1 V 3%, 1.5  5.5 Vin, 5-Pin SOT-23" 850 -100 50 H I L CNN "Description"
+F5 "1.45" 850 -200 50 H I L CNN "Height"
+F6 "STMicroelectronics" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "LD39015M10R" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "511-LD39015M10R" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LD39015M10R?qs=wsLAKTqgg6iLO1LS4XmvbQ%3D%3D" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "LD39015M10R" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ld39015m10r/stmicroelectronics" 850 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 850 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 850 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X IN 1 0 0 200 R 50 50 0 0 I
+X GND 2 0 -100 200 R 50 50 0 0 W
+X EN 3 0 -200 200 R 50 50 0 0 P
+X NC 4 1000 0 200 L 50 50 0 0 N
+X OUT 5 1000 -100 200 L 50 50 0 0 O
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

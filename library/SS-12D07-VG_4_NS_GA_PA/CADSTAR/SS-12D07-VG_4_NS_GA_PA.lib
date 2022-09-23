@@ -1,0 +1,19 @@
+.SS-12D07-VG_4_NS_GA_PA :1 ;Slide Switches SPDT 0.3 Amp at 30 V
+SS-12D07-VG
+*STM S
+*NGS
+*PLB 1="1" 2="2" 3="3"
+*MXP 5
+*DFN SS-12D07-VG_4_NS_GA_PA
+~!Manufacturer_Name (C & K COMPONENTS)
+~!Manufacturer_Part_Number (SS-12D07-VG 4 NS GA PA)
+~!Mouser Part Number (611-SS12D07VG4NSGAPA)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=611-SS12D07VG4NSGAPA)
+~!Arrow Part Number (SS-12D07-VG 4 NS GA PA)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ss12d07vg4nsgapa/ck?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://www.mouser.com/ds/2/60/SS-12D07-VG_GA_PA-190305.pdf)
+~!Height (-)
+SS-12D07-VG_4_NS_GA_PA
+1.1!U 2.1!U 3.1!U 

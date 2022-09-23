@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC2AAPC
+D BATTERY HOLDER AA 2 CELL PC PIN
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Memory%20Protection%20PDFs/BC2AAPC.pdf
+$ENDCMP
+#
+#End Doc Library

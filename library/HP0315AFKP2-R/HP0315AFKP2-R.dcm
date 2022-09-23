@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HP0315AFKP2-R
+D Tactile Switches SPST OFF-(ON) 3VA BLK FLAT BUTTON SMT
+K
+F https://www.nkkswitches.com/pdf/HP03-2.pdf
+$ENDCMP
+#
+#End Doc Library

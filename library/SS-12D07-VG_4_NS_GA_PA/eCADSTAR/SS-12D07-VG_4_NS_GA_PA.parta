@@ -1,0 +1,73 @@
+(Japanese_coding: sjis)
+(function "ECS_669058"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-07-20-08:52:02)
+    (utime 2018-06-06-11:10:46)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "SS-12D07-VG_4_NS_GA_PA")
+)
+
+
+(pinAssign "ECS_669058"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-07-20-08:52:02)
+    (utime 2018-06-06-11:10:46)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_669058")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SS-12D07-VG_4_NS_GA_PA")
+)
+
+
+(part "SS-12D07-VG_4_NS_GA_PA"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-07-20-08:52:02)
+    (utime 2018-06-06-11:10:46)
+    (packageRef "SS-12D07-VG_4_NS_GA_PA")
+    (pinAssignRef "ECS_669058")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "S")
+    (property "description" "Slide Switches SPDT 0.3 Amp at 30 V")
+    (property "Manufacturer_Name" "C & K COMPONENTS")
+    (property "Manufacturer_Part_Number" "SS-12D07-VG 4 NS GA PA")
+    (property "Mouser_Part_Number" "611-SS12D07VG4NSGAPA")
+    (property "Mouser_Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=611-SS12D07VG4NSGAPA")
+    (property "Arrow_Part_Number" "SS-12D07-VG 4 NS GA PA")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/ss12d07vg4nsgapa/ck?region=nac")
+    (property "Mouser_Testing_Part_Number" "")
+    (property "Mouser_Testing_Price/Stock" "")
+    (property "Datasheet_Link" "http://www.mouser.com/ds/2/60/SS-12D07-VG_GA_PA-190305.pdf")
+)
+
+
