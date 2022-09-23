@@ -4740,7 +4740,7 @@
   (symbol (lib_id "power:+3V0") (at 347.98 34.925 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 402d73c5-d92e-49ae-b268-6dda89905af5)
-    (property "Reference" "#PWR?" (id 0) (at 347.98 38.735 0)
+    (property "Reference" "#PWR0101" (id 0) (at 347.98 38.735 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V0" (id 1) (at 347.98 29.21 0))
@@ -5572,7 +5572,7 @@
     (uuid 8ebc0ded-a641-4997-90f5-2e7096976fcc)
     (property "Reference" "SW1" (id 0) (at 340.36 26.67 0))
     (property "Value" "SW_SPDT" (id 1) (at 340.36 29.21 0))
-    (property "Footprint" "" (id 2) (at 340.36 34.925 0)
+    (property "Footprint" "top_footprintlib:SS-12D07-VG" (id 2) (at 340.36 34.925 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 340.36 34.925 0)
@@ -6984,7 +6984,7 @@
       (reference "#PWR061") (unit 1) (value "GND") (footprint "")
     )
     (path "/402d73c5-d92e-49ae-b268-6dda89905af5"
-      (reference "#PWR?") (unit 1) (value "+3V0") (footprint "")
+      (reference "#PWR0101") (unit 1) (value "+3V0") (footprint "")
     )
     (path "/9fe7834a-8684-4d58-8957-243825e4fdf3"
       (reference "C1") (unit 1) (value "33n") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
@@ -7224,7 +7224,7 @@
       (reference "S5") (unit 1) (value "HP0315AFKP2-R") (footprint "top_footprintlib:HP0315AFKP2R")
     )
     (path "/8ebc0ded-a641-4997-90f5-2e7096976fcc"
-      (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "")
+      (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "top_footprintlib:SS-12D07-VG")
     )
     (path "/5d3d4e6f-52c6-4347-abf7-cf5d4d10f099"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
