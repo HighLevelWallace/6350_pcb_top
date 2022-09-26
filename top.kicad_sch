@@ -3245,6 +3245,11 @@
     (uuid f23ea394-fe3d-4ed1-962c-afd7ffb8f676)
   )
 
+  (label "battery+" (at 334.645 35.56 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4ac3b1d9-a163-40e3-acdc-b65ce0b13b6b)
+  )
+
   (global_label "E" (shape input) (at 69.85 17.145 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 02bf1464-0721-4317-b774-2c2304bb5405)
